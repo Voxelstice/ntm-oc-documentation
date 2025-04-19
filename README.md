@@ -1,3 +1,5 @@
+# THIS IS HORRIBLY OUTDATED. REFER TO THE [NUCLEAR TECH MOD WIKI](https://nucleartech.wiki/wiki/OpenComputers_Integration) FOR LATEST DOCUMENTATION
+
 # ntm-oc-documentation
 This repo is a list of files for documentation on HBM's Nuclear Tech Mod OpenComputers integration
 
